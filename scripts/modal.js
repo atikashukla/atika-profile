@@ -1,22 +1,19 @@
 $(document).ready(function () {
   var modalText = {
     shopping: {
-      title: "Online Shopping Platform",
-      tag: "E-commerce",
-      detail:
-        "A platform to control the activity of electronically buying or selling of products on online services.",
+      title: "Online News Api",
+      tag: "React-app",
+      detail: "An online News application for daily News",
     },
     navigation: {
-      title: "Navigation Menu Animation",
+      title: "Responsive CV",
       tag: "UI Effect",
-      detail:
-        "A personal website with UI animation effect for navigating through menus is designed for better user experience that works on all platforms.",
+      detail: "A responsive CV with animated UI effects.",
     },
     training: {
-      title: "Trainer Website",
-      tag: "UI Artifacts",
-      detail:
-        "A trainer website that consists of many UI artifacts and integrate multiple videos.",
+      title: "Textutils",
+      tag: "",
+      detail: "A text formatting application.",
     },
   };
 
